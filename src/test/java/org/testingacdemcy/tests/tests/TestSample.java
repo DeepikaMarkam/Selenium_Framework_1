@@ -1,10 +1,8 @@
-package org.testingacdemcy.sample;
+package org.testingacdemcy.tests.tests;
 
 import io.qameta.allure.Description;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import javax.swing.plaf.PanelUI;
 
 public class TestSample {
 

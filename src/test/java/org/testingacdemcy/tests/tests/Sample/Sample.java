@@ -1,4 +1,4 @@
-package org.testingacdemcy.sample;
+package org.testingacdemcy.tests.tests.Sample;
 
 public class Sample {
     public static void main(String[] args) {
