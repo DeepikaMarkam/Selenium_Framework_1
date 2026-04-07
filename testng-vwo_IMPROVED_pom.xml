@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/MYLEARNINGPROJECT/JAVASELENIUM/Selenium_Framework_1">
+        <classes>
+            <class name="org.testingacdemcy.tests.vwoTestCases.TestVWOLogin_02_Prop_improved_POM">
+<!--                <methods>-->
+<!--                    <include name="Test_Negative_vwo_login"/>-->
+<!--                    <include name="Test_Positive_vwo_login"/>-->
+<!--                </methods>-->
+            </class>
+        </classes>
+    </test>
+</suite>

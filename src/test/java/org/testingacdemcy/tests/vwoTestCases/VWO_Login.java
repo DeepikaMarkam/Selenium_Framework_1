@@ -1,4 +1,4 @@
-package org.testingacdemcy.tests.tests.vwoTestCases;
+package org.testingacdemcy.tests.vwoTestCases;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;
