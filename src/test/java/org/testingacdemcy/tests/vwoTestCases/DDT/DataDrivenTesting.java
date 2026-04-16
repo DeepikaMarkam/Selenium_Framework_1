@@ -20,7 +20,7 @@ public class DataDrivenTesting {
     public void test_vwo_login(String email, String password) {
 
         // Page Class Code (POM Code) - 2 - L
-//        LoginPage loginPage = new LoginPage(DriverManager.getDriver());
+//        LoginPage_PF loginPage = new LoginPage_PF(DriverManager.getDriver());
         LoginPage loginPage = new LoginPage(getDriver());
 
 
